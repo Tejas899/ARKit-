@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D5ABA408-49B8-4BC9-B8B2-EAFEDA2F0832"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A633BEA4-8141-4C21-A4BE-C30BD53D22D2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Face Detection/FullbodyDetectionVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "163"
+            endingLineNumber = "163"
+            landmarkName = "handleFaceDetectionObservations(observations:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A633BEA4-8141-4C21-A4BE-C30BD53D22D2 - f48d1c0e23d524fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Face_Detection.FullbodyDetectionVC.handleFaceDetectionObservations(observations: Swift.Array&lt;__C.VNHumanObservation&gt;) -&gt; ()"
+                  moduleName = "Face Detection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tejaskashyap/Downloads/iOS-Face-Detection-master/Face%20Detection/FullbodyDetectionVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "496">
+               </Location>
+               <Location
+                  uuid = "A633BEA4-8141-4C21-A4BE-C30BD53D22D2 - f48d1c0e23d524dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Face_Detection.FullbodyDetectionVC.handleFaceDetectionObservations(observations: Swift.Array&lt;__C.VNHumanObservation&gt;) -&gt; ()"
+                  moduleName = "Face Detection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tejaskashyap/Downloads/iOS-Face-Detection-master/Face%20Detection/FullbodyDetectionVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "A633BEA4-8141-4C21-A4BE-C30BD53D22D2 - 8bdb6ad075f0e607"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Face_Detection.FullbodyDetectionVC.handleFaceDetectionObservations(observations: Swift.Array&lt;__C.VNHumanBodyPoseObservation&gt;) -&gt; ()"
+                  moduleName = "Face Detection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tejaskashyap/Downloads/Tejas/iOS-Face-Detection-master/Face%20Detection/FullbodyDetectionVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "205"
+                  endingLineNumber = "205"
+                  offsetFromSymbolStart = "3352">
+               </Location>
+               <Location
+                  uuid = "A633BEA4-8141-4C21-A4BE-C30BD53D22D2 - 642b152d4af0d95"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Face_Detection.FullbodyDetectionVC.handleFaceDetectionObservations(observations: Swift.Array&lt;__C.VNHumanBodyPoseObservation&gt;) -&gt; ()"
+                  moduleName = "Face Detection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tejaskashyap/Desktop/Tejas/iOS-Face-Detection-master/Face%20Detection/FullbodyDetectionVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "205"
+                  endingLineNumber = "205"
+                  offsetFromSymbolStart = "3352">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "55A8F379-67FA-46D3-B188-32414F886797"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Face Detection/ARVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "463"
+            endingLineNumber = "463"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "03BA1181-9931-4DB2-9C42-08330A976216"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Face Detection/File.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17E4035D-201C-4BCA-95DD-C836C0813478"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Face Detection/ARVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "343"
+            endingLineNumber = "343"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
